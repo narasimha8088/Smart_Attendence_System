@@ -50,4 +50,4 @@ The system requires Python 3.8+ installed along with the following libraries:
 * [SQLite](https://www.sqlite.org/) - Database Management
 
 ## Author
-- **Narsimha**
+- **Narsimha NM**
